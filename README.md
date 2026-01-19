@@ -18,7 +18,7 @@ A modern Android scientific calculator application with live calculation preview
 
 ### 📱 About the App
 
-Calculator is a powerful yet intuitive Android calculator app designed for students. It features both basic and scientific modes, real-time calculation preview, and a beautiful dark theme interface perfect for everyday calculations and academic work.
+This Calculator app is a smart and user-friendly Android application designed to help students perform calculations quickly and accurately. It supports both basic arithmetic and advanced scientific functions with a live result preview. The simple layout, dark theme interface, and smooth performance make it perfect for daily academic use and learning mathematics more effectively.
 
 ---
 
