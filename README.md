@@ -12,7 +12,7 @@ A modern Android scientific calculator application with live calculation preview
 |-------|---------|
 | **Project Type** | Class 11 Technical Project |
 | **Assigned By** | Navraj Adhikhari Sir |
-| **Submitted By** | Mukesh Yadav |
+| **Submitted By** | Krishna Baral |
 
 ---
 
