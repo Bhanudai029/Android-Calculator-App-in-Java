@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Calculator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF9500</item>
+        <item name="colorPrimaryVariant">#CC7700</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#34C759</item>
+        <item name="colorSecondaryVariant">#2AA84A</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:statusBarColor">#1E1E23</item>
+        <item name="android:navigationBarColor">#1E1E23</item>
+        <item name="android:windowBackground">#1E1E23</item>
+    </style>
+</resources>
